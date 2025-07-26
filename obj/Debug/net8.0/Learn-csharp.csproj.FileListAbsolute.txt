@@ -1,0 +1,14 @@
+F:\Learn-csharp\bin\Debug\net8.0\Learn-csharp.exe
+F:\Learn-csharp\bin\Debug\net8.0\Learn-csharp.deps.json
+F:\Learn-csharp\bin\Debug\net8.0\Learn-csharp.runtimeconfig.json
+F:\Learn-csharp\bin\Debug\net8.0\Learn-csharp.dll
+F:\Learn-csharp\bin\Debug\net8.0\Learn-csharp.pdb
+F:\Learn-csharp\obj\Debug\net8.0\Learn-csharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learn-csharp\obj\Debug\net8.0\Learn-csharp.AssemblyInfoInputs.cache
+F:\Learn-csharp\obj\Debug\net8.0\Learn-csharp.AssemblyInfo.cs
+F:\Learn-csharp\obj\Debug\net8.0\Learn-csharp.csproj.CoreCompileInputs.cache
+F:\Learn-csharp\obj\Debug\net8.0\Learn-csharp.dll
+F:\Learn-csharp\obj\Debug\net8.0\refint\Learn-csharp.dll
+F:\Learn-csharp\obj\Debug\net8.0\Learn-csharp.pdb
+F:\Learn-csharp\obj\Debug\net8.0\Learn-csharp.genruntimeconfig.cache
+F:\Learn-csharp\obj\Debug\net8.0\ref\Learn-csharp.dll
